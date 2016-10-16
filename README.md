@@ -35,4 +35,4 @@ are:
     
     See [this](http://www.cloudera.com/documentation/archive/cdh/4-x/4-2-1/CDH4-Installation-Guide/cdh4ig_topic_18_4.html) to know how to use MySQL for Hive metastore.
     
-
+Testing CI only.
