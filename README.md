@@ -47,4 +47,4 @@ are:
         $ bin/test-all.sh
 
     
-
+Testing CI only.
